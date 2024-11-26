@@ -87,8 +87,7 @@ Key findings include:
 ### Installation
 Clone this repository and install dependencies:
 
-git clone https://github.com/yourusername/deepfake-classification.git
-cd deepfake-classification
+git clone [https://github.com/XOSDX/Comparative-Analysis-of-The-Deepfake-Classification-Performance-on-Deepfake-Dataset.git]
 pip install -r requirements.txt
 
 🤝 Contributing
